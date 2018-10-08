@@ -102,7 +102,7 @@ button:focus { outline: none; }
 }
 
 .tm-logo { margin-bottom: 30px; }
-.tm-site-name { margin-bottom: 40px; }
+.tm-site-name { margin-bottom: 35px; }
 .tm-intro-text { margin-bottom: 45px; }
 
 #tm-section-1,
@@ -528,4 +528,16 @@ body.page-2 { padding-top: 80px; }
 	height: 25px;
 	opacity: 0.5;
 	margin: 15px;
+}
+
+
+.language-name span{
+	display: flex;
+	justify-content: space-around;
+	margin: 10px;
+}
+
+.tm-intro-text {
+	font-size: 30px;
+	font-family: 'Tangerine', cursive;
 }
