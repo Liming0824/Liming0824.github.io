@@ -544,7 +544,7 @@ body.page-2 { padding-top: 80px; }
 
 }
 
-.personal-photo {
+/* .personal-photo {
 	width: 120px;
 	height: 120px;
 	border-radius: 10px;
@@ -557,7 +557,7 @@ body.page-2 { padding-top: 80px; }
 	object-fit: contain;
 	object-position: 50% 50%;
 	border-radius: 10px;
-}
+} */
 
 .resume-link{
 	font-weight: bold;
