@@ -562,3 +562,11 @@ body.page-2 { padding-top: 80px; }
 .resume-link{
 	font-weight: bold;
 }
+
+
+.nav-bar-name{
+  font-family: 'Srisakdi', cursive;
+	position: absolute;
+	left: 10px;
+	/* transition: all 1s linear; */
+}
